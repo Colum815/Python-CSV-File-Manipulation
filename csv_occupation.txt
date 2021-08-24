@@ -1,0 +1,4 @@
+name,age,occupation,workplace
+Sam,25,doctor,Beaumont Hospital
+Brendan,40,software engineer,microsoft
+John,33,quality assurance manager,apple
